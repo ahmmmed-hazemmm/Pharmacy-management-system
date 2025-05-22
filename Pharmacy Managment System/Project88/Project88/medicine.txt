@@ -1,0 +1,11 @@
+15432#aspirin#pain reliever#Used to relieve pain, fever, and inflammation#40.5#50
+28726#ibuprofen#anti-inflammatory#Used to relieve pain, fever, and inflammation#70.25#120
+39173#acetaminophen#pain reliever#Used to relieve mild to moderate pain and reduce fever#60#90
+42652#naproxen#anti-inflammatory#Used to relieve pain, inflammation, and stiffness caused by arthritis#80.2#70
+52134#diphenhydramine#antihistamine#Used to relieve symptoms of allergies, hay fever, and the common cold#90.8#60
+63454#loratadine#antihistamine#Used to relieve symptoms of allergies, hay fever, and the common cold#70.5#85
+73423#omeprazole#proton pump inhibitor#Used to reduce stomach acid and treat conditions such as heartburn, gastroesophageal reflux disease (GERD), and stomach ulcers#12.3#43
+84355#simvastatin#statins#Used to lower cholesterol levels and reduce the risk of heart disease#10.5#55
+94555#metformin#antidiabetic#Used to treat type 2 diabetes by controlling blood sugar levels#80.75#0
+10234#levothyroxine#thyroid hormone#Used to treat an underactive thyroid (hypothyroidism)#60.9#46
+11234#paracetamol#pain reliever#Used to relieve pain and fever#50.75#0

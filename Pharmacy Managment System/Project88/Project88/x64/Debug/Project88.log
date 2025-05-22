@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\youss\source\repos\Project88\Project88\FileName.cpp(1578,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\youss\source\repos\Project88\Project88\FileName.cpp(443,1): warning C4715: 'log_in': not all control paths return a value
+C:\Users\youss\source\repos\Project88\Project88\FileName.cpp(2511,1): warning C4715: 'page_1': not all control paths return a value
+C:\Users\youss\source\repos\Project88\Project88\FileName.cpp(2608,1): warning C4715: 'page_2': not all control paths return a value
+C:\Users\youss\source\repos\Project88\Project88\FileName.cpp(2569,1): warning C4715: 'page__2': not all control paths return a value
+  Project88.vcxproj -> C:\Users\youss\source\repos\Project88\x64\Debug\Project88.exe
